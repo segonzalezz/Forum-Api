@@ -3,6 +3,7 @@ In that repository you found this packages in src/main/java/com.segonzalezz/api/
 - domain
 - infra
 - controller
+  
 And implements this thecnologies:
 - Flyway
 - Lombot
@@ -18,7 +19,7 @@ And implements this thecnologies:
 #Images
 <div align="center"> 
   
-![Alter](img/img.png)
+![Alter](img/image.png)
 
 </div>
 
