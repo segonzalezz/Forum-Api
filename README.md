@@ -16,7 +16,7 @@ And implements this thecnologies:
 - Flyway Postgrest Sql
 - Postgrest Sql
 
-# Images 1
+# Image 1
 <div align="center"> 
   
 ![Alter](img/image.png)
